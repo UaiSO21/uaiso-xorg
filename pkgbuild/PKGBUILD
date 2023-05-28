@@ -23,7 +23,6 @@ depends=(
     'xorg-xvinfo'
     'xorg-xwayland'
     'xorg-xwininfo'
-    'dbus-x11'    
      )
 provides=("$pkgname")
 # conflicts=('')
