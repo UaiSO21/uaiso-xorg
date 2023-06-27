@@ -22,7 +22,7 @@ depends=(
     'xorg-xrefresh'
     'xorg-xvinfo'
     'xorg-xwayland'
-    'xorg-xwininfo
+    'xorg-xwininfo'
     'xterm'
      )
 provides=("$pkgname")
